@@ -1,5 +1,5 @@
 import { Router } from "express";
-import rutaFactura from "./routes.factura";
+import rutaFactura from "./routes.factura.js";
 
 const ruta = Router();
 
